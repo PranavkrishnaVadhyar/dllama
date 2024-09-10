@@ -1,0 +1,16 @@
+.vscode/settings.json
+
+*.o
+*.0
+*.dSYM
+*.data
+*.temp
+__pycache__
+
+*-test
+main
+run*.sh
+server
+/dllama
+/dllama-*
+*.exe
